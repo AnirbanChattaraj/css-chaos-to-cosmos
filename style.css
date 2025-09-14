@@ -1,0 +1,33 @@
+/* Base Object (OOCSS) */
+.box {
+  height: 150px;
+  width: 150px;
+  border: 1px solid goldenrod;
+  margin: 20px;
+}
+
+/* Elements */
+.box__text {
+  padding-left: 50px;
+  padding-top: 40px;
+}
+
+/* Modifiers */
+.box--rounded {
+  border-radius: 40px;
+}
+.box--curved {
+  border-radius: 20px;
+}
+.box--peach {
+  background-color: peachpuff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  color: brown;
+}
+.box--almond {
+  background-color: blanchedalmond;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  color: burlywood;
+}
