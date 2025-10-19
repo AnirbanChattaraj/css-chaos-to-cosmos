@@ -42,4 +42,4 @@ Here’s the vibe you’ll see:
 🤘 Author
 
 Made with 💜, ☕, and endless funky energy ⚡
-By Anirban aka The CSS Ninja 🥷
+By Anirban Chattaraj�
