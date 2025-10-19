@@ -16,8 +16,10 @@ Here’s the vibe you’ll see:
 🍑 Box 1 → Peach background, rounded corners, stylish text.
 🌰 Box 2 → Almond background, curvy edges, bold funky vibes.
 
+
+
 +-------------------------+     +-------------------------+
-|   🍑 Funky Peach Box    |     |   🌰 Chill Almond Box    |
+|   🍑 Funky Peach Box    |   |   🌰 Chill Almond Box    |
 |    Rounded & Stylish    |     |    Curved & Funky AF    |
 +-------------------------+     +-------------------------+
 
